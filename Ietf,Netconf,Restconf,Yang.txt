@@ -1,0 +1,11 @@
+ietf, netconf(rfc6241), restconf(8040) et yang(7950)
+
+De Internet Engineering Task Force (IETF) is een internationale gemeenschap van netwerkontwerpers, -operators, -leveranciers en -onderzoekers die zich bezighouden met de evolutie en het functioneren van het internet. De IETF ontwikkelt en promoot vrijwillige internetstandaarden, met name die met betrekking tot protocollen en architecturen.
+
+NETCONF (Network Configuration Protocol), vastgelegd in RFC 6241, is een protocol dat netwerkbeheerders in staat stelt netwerkapparatuur te configureren en te beheren. Het biedt mechanismen voor het ophalen en manipuleren van configuratiegegevens op apparaten op een gestandaardiseerde manier.
+
+RESTCONF, beschreven in RFC 8040, is een protocol dat een RESTful API biedt voor het toegang krijgen tot configuratie- en statusgegevens die zijn gedefinieerd in YANG. Het maakt gebruik van HTTP-methoden en biedt een eenvoudige manier om netwerkapparatuur te beheren via webtechnologieën.
+
+YANG, gespecificeerd in RFC 7950, is een datamodelleringstaal die wordt gebruikt om de configuratie- en statusgegevens van netwerkapparatuur te definiëren. Het biedt een gestandaardiseerde manier om netwerkgegevens te modelleren, wat interoperabiliteit tussen verschillende netwerkbeheertools en -apparatuur mogelijk maakt.
+
+Samengevat biedt YANG een gestandaardiseerde manier om netwerkgegevens te modelleren, terwijl NETCONF en RESTCONF protocollen zijn die deze modellen gebruiken om netwerkapparatuur te configureren en te beheren. NETCONF maakt gebruik van een XML-gebaseerde benadering, terwijl RESTCONF een RESTful benadering biedt met behulp van HTTP-methoden.
